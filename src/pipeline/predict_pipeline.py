@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # for prediction purpouse
+=======
+>>>>>>> 52279ab06f06a1d53148bbc64765f24097f9c583
 import sys
 import pandas as pd
 import os
